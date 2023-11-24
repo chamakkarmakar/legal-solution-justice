@@ -1,0 +1,19 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    background-color: #B68C5A;
+    color: white;
+    border: none;
+
+}
+.banner {
+    padding-top: 10%;
+    padding-bottom: 20%;
+    padding-right: 10%;
+    padding-left: 10%;
+    background-image: url("images/banner.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
